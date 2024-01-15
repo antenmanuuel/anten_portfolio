@@ -9,13 +9,12 @@ import {
     nodejs,
     react,
     typescript,
+    c,
+    python,
+    java
 } from "../assets/icons";
 
-import java  from "../assets/icons/java.svg";
 
-import python  from "../assets/icons/python.svg";
-
-import c from "../assets/icons/c.svg";
 
 
 export const skills = [
