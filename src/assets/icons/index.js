@@ -18,6 +18,7 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import games from './games.svg'
 import stackoverflow from './stackoverflow.svg'
+import tailwindcss from './tailwindcss.svg'
 export {
     css,
     express,
@@ -27,6 +28,7 @@ export {
     javascript,
     mongodb,
     mui,
+    tailwindcss,
     nodejs,
     react,
     typescript,

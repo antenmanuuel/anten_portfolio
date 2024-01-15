@@ -11,7 +11,8 @@ import {
     typescript,
     c,
     python,
-    java
+    java,
+    tailwindcss
 } from "../assets/icons";
 
 
@@ -51,6 +52,11 @@ export const skills = [
     {
         imageUrl: mui,
         name: "Material-UI",
+        type: "Frontend",
+    },
+    {
+        imageUrl: tailwindcss,
+        name: "Tailwind CSS",
         type: "Frontend",
     },
     {
