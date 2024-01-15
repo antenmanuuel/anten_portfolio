@@ -7,7 +7,7 @@ export const experiences = [
     title: "Microsoft Tech Resilience Mentorship Program - Student Participant",
     company_name: "Microsoft",
     icon: micrsoft,
-    iconBg: "#accbe1",
+    iconBg: "#FFFFFF",
     date: "March 2021 - April 2021",
     points: [
         "Selected for Microsoft’s exclusive 6-week Tech Resilience Program, designed to enhance key soft skills in the tech industry among a global cohort of students.",
