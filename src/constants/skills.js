@@ -54,11 +54,11 @@ export const skills = [
         name: "Material-UI",
         type: "Frontend",
     },
-    // {
-    //     imageUrl: tailwindcss,
-    //     name: "Tailwind CSS",
-    //     type: "Frontend",
-    // },
+    {
+        imageUrl: tailwindcss,
+        name: "Tailwind CSS",
+        type: "Frontend",
+    },
     {
         imageUrl: nodejs,
         name: "Node.js",
