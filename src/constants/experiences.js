@@ -21,7 +21,7 @@ export const experiences = [
       "Stony Brook University - College of Engineering and Applied Sciences",
     icon: stonybrook,
     iconBg: "#FFFFFF",
-    date: "November 2022 - Present",
+    date: "November 2022 - August 2023",
     points: [
       "Administered and sustained operational efficiency for over 150 computers, printers, and servers in multiple buildings, ensuring high system up-time and reliability.",
       "Provided specialized technical assistance, resolving over 20 hardware and software issues for faculty members, ensuring uninterrupted workflow and productivity within the academic environment.",
