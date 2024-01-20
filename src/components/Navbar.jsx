@@ -27,6 +27,14 @@ const Navbar = () => {
           >
             Projects
           </NavLink>
+          <a
+            href="https://drive.google.com/file/d/1S6NJSZ7zfxk5JfEXbYth_tLI_wB_O-YZ/view?usp=sharing"
+            className="text-black hover:text-blue-500"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Resume
+          </a>
           <NavLink
             to="/contact"
             className={({ isActive }) =>
