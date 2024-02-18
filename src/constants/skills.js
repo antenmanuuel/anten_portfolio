@@ -12,7 +12,16 @@ import {
     c,
     python,
     java,
-    tailwindcss
+    tailwindcss,
+    bash,
+    prisma,
+    socketio,
+    aws,
+    figma,
+    postman,
+    firebase,
+    postgres,
+    vercel
 } from "../assets/icons";
 
 
@@ -85,10 +94,50 @@ export const skills = [
         type: "Language",
     },
     {
-        imageUrl: c,
-        name: "C",
-        type: "Language",
+        imageUrl: bash,
+        name: "Bash",
+        type: "Scripting",
     },
+    {
+        imageUrl: prisma,
+        name: "Prisma",
+        type: "Backend",
+    },
+    {
+        imageUrl: socketio,
+        name: "Socket.IO",
+        type: "Backend",
+    },
+    {
+        imageUrl: aws,
+        name: "AWS",
+        type: "Cloud Service",
+    },
+    {
+        imageUrl: figma,
+        name: "Figma",
+        type: "Design",
+    },
+    {
+        imageUrl: postman,
+        name: "Postman",
+        type: "API",
+    },
+    {
+        imageUrl: firebase,
+        name: "Firebase",
+        type: "Cloud",
+    },
+    {
+        imageUrl: postgres,
+        name: "PostgresSQL",
+        type: "SQL",
+    },
+    {
+        imageUrl: vercel,
+        name: "Vercel",
+        type: "Hosting"
+    }
     
     
 ];
