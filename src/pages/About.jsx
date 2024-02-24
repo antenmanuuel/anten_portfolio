@@ -22,7 +22,7 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          I'm a senior Computer Science undergraduate student at Stony Brook
+          I'm a Computer Science undergraduate student at Stony Brook
           University with a focus on Frontend, Backend, and Full Stack
           development. My journey has been marked by rigorous coursework and
           hands-on projects that have honed my skills in both front-end and
