@@ -10,16 +10,9 @@ export const projects = [
     {
         iconUrl: stackoverflow,
         theme: 'btn-back-yellow',
-        name: 'Fake Stack Overflow Clone',
-        description: 'a full-stack web application, replicating 15 key features of Stack Overflow',
-        link: 'https://github.com/antenmanuuel/FakeStackOverFlowClone',
-    },
-    {
-        iconUrl: airbnb,
-        theme: 'btn-back-red',
-        name: 'Airbnb Clone',
-        description: 'a full-stack application mirroring 10 pivotal Airbnb functionalities',
-        link: 'https://github.com/antenmanuuel/airbnb-clone',
+        name: 'DevCollabNet',
+        description:'a full-stack web application, replicating 15 key features of Stack Overflow',
+        link: 'https://github.com/antenmanuuel/DevCollabNet',
     },
     {
         iconUrl: wordhunt,
