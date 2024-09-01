@@ -14,11 +14,4 @@ export const projects = [
         description:'a full-stack web application, replicating 15 key features of Stack Overflow',
         link: 'https://github.com/antenmanuuel/DevCollabNet',
     },
-    {
-        iconUrl: wordhunt,
-        theme: 'btn-back-white',
-        name: 'Word Hunt',
-        description: 'a full-stack multiplayer word puzzle game project in a team of 4 with real-time chat',
-        link: 'https://github.com/antenmanuuel/WordHunt',
-    }
 ];

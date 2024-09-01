@@ -9,19 +9,17 @@ import {
     nodejs,
     react,
     typescript,
-    c,
     python,
     java,
     tailwindcss,
     bash,
-    prisma,
-    socketio,
     aws,
     figma,
     postman,
     firebase,
+    azure,
     postgres,
-    vercel
+    spring
 } from "../assets/icons";
 
 
@@ -99,19 +97,9 @@ export const skills = [
         type: "Scripting",
     },
     {
-        imageUrl: prisma,
-        name: "Prisma",
-        type: "Backend",
-    },
-    {
-        imageUrl: socketio,
-        name: "Socket.IO",
-        type: "Backend",
-    },
-    {
         imageUrl: aws,
         name: "AWS",
-        type: "Cloud Service",
+        type: "Cloud",
     },
     {
         imageUrl: figma,
@@ -134,10 +122,14 @@ export const skills = [
         type: "SQL",
     },
     {
-        imageUrl: vercel,
-        name: "Vercel",
-        type: "Hosting"
-    }
-    
+        imageUrl: azure,
+        name: "Microsoft Azure",
+        type: "Cloud",
+    },
+    {
+        imageUrl: spring,
+        name: "Spring Boot",
+        type: "Framework",
+    },
     
 ];

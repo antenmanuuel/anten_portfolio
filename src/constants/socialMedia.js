@@ -9,6 +9,6 @@ export const socialMedia = [
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "https://www.linkedin.com/in/anten-manuuel-078829208/",
+    link: "https://www.linkedin.com/in/anten-manuuel/",
   },
 ];

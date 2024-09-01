@@ -20,16 +20,15 @@ import games from './games.svg'
 import stackoverflow from './stackoverflow.svg'
 import tailwindcss from './tailwindcss.svg'
 import bash from './bash.png';
-import prisma from './prisma.svg';
-import socketio from './socketio.svg';
 import aws from './aws.svg';
 import figma from './figma.svg';
 import postgres from './postgresql.svg';
 import firebase from './firebase.svg';
 import postman from './postman.svg';
-import vercel from "./vercel.svg";
 import airbnb from './airbnb.svg';
 import wordhunt from './wordhunt.svg'
+import azure from './azure.png'
+import spring from './spring.png'
 export {
     css,
     express,
@@ -53,14 +52,13 @@ export {
     games,
     stackoverflow,
     bash,
-    prisma,
-    socketio,
     aws,
     figma,
     postgres,
     firebase,
     postman,
-    vercel,
     airbnb,
-    wordhunt
+    wordhunt,
+    azure,
+    spring
 }

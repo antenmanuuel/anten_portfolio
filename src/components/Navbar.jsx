@@ -28,7 +28,7 @@ const Navbar = () => {
             Projects
           </NavLink>
           <a
-            href="https://drive.google.com/file/d/1VSG_IQ7F4UwrGd9-p8yqc9utF39utMbU/view?usp=sharing"
+            href="https://drive.google.com/file/d/1C78naej94M_gn_VRLzCcIbD87p4tq5Zq/view?usp=sharing"
             className="text-black hover:text-blue-500"
             target="_blank"
             rel="noopener noreferrer"

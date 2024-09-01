@@ -49,8 +49,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className="info-box">
         <p className="font-medium sm:text-xl text-justify">
-          Actively seeking internships to enhance my backend and frontend
-          development skills. Interested in collaborating? Reach out to me.
+        actively seeking new graduate opportunities in software engineering, with a focus on frontend, backend, and full stack development. Interested in collaborating? Reach out to me.
         </p>
 
         <Link to="/contact" className="neo-brutalism-white neo-btn">
